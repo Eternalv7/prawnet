@@ -1,0 +1,24 @@
+{
+    "name": "prawnet",
+    "version": "1.0.0",
+    "description": "Simple P2P botnet",
+    "main": "server/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "placeholder"
+    },
+    "author": "owocean",
+    "license": "ISC",
+    "dependencies": {
+        "dat-swarm-defaults": "^1.0.2",
+        "discovery-swarm": "^6.1.0",
+        "dotenv": "^8.2.0",
+        "get-port": "^5.1.1"
+    },
+    "bin": {
+        "prawnet": "./index.js"
+    }
+}
