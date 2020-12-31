@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "placeholder"
+        "url": "git+https://github.com/owocean/prawnet.git"
     },
     "author": "owocean",
     "license": "ISC",
