@@ -16,10 +16,10 @@ Do make sure to set a unique channel in `.env`
 # usage
 Running "slave" node
 ```sh
-$ node index
+$ prawnet
 ```
 Running "master" node
 ```sh
-$ node index <shell command>
+$ prawnet <shell command>
 ```
 pretty intuitive 
